@@ -16,9 +16,9 @@
     "dist": "electron-builder"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matheus Leite Pasqualoto",
   "license": "ISC",
-  "description": "",
+  "description": "Aplicativo para monitorar senhas",
   "build": {
     "asar": true,
     "extraFiles": [
