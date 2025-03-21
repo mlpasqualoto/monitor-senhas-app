@@ -6,8 +6,8 @@
   "version": "1.0.0",
   "main": "main.js",
   "devDependencies": {
-    "electron": "^26.0.0",
-    "electron-builder": "^24.13.3"
+    "electron-builder": "^25.1.8",
+    "electron": "^35.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
