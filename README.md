@@ -1,6 +1,6 @@
 # Monitor de Senhas com Electron
 
-O **Monitor de Senhas** é uma aplicação desktop desenvolvida com Electron que monitora sites de cartórios em busca de senhas específicas, notificando o usuário quando encontra uma correspondência. A aplicação funciona em segundo plano (tray) e envia notificações do sistema quando detecta senhas com prefixos específicos.
+O **Monitor de Senhas** é uma aplicação desktop desenvolvida com Electron que monitora sites de gerenciamento de senhas em busca de senhas específicas, notificando o usuário quando encontra uma correspondência. A aplicação funciona em segundo plano (tray) e envia notificações do sistema quando detecta senhas com prefixos específicos.
 
 ---
 ## ✨ Funcionalidades
